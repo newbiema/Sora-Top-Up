@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Menampilkan warna latar belakang hitam saat hover */
+.border-black:hover {
+    border-color: black; /* Tambahkan aturan CSS untuk efek hover */
+  }
+
